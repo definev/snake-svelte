@@ -114,7 +114,7 @@
     direction = newDirection;
   }
 
-  setInterval(handleEvent, 400);
+  setInterval(handleEvent, 200);
 </script>
 
 <div class="maps">
